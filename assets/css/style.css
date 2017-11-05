@@ -2424,9 +2424,7 @@ blockquote {
     #about #about-card #about-card-job,
     #about #about-card #about-card-location {
       display: inline-block;
-      width: calc((100% / 2) - 48px); }
-    #about #about-card #about-card-job {
-      padding: 0 15px 0 30px; }
+      width: calc((100%) - 48px); }
     #about #about-card #about-card-location {
       padding: 0 30px 0 15px; } }
 

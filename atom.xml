@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Stanton&#39;s Ramblings</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://stantonwong.com/"/>
+  <updated>2017-11-05T08:59:17.143Z</updated>
+  <id>http://stantonwong.com/</id>
+  
+  <author>
+    <name>Stanton</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Post with Hexo</title>
+    <link href="http://stantonwong.com/2017/08/11/My-First-Post-with-Hexo/"/>
+    <id>http://stantonwong.com/2017/08/11/My-First-Post-with-Hexo/</id>
+    <published>2017-08-10T17:52:22.000Z</published>
+    <updated>2017-11-05T08:59:17.143Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’ve been wanting to get into the habit writing for a long time because I think written communication is a very valuable skill to have. A daily habit of writing would help me improve my writing ability and it will also give me an outlet for the tons of ideas I want to share. I haven’t because I’m lazy, scared, and am a perfectionist. These are all just excuses. Being lazy means that I haven’t made this a priority. Being scared means I’m afraid of how people see me if I put myself out there. And the perfectionist excuse is just a little bit of both being lazy and scared, </p><p>So starting today, I’ll be writing a short piece every day. These will be random ramblings of topics that I have encountered the day of or have been thinking about. To make sure I can get these out every day, the rule is to try and keep each piece short.</p><p>I’ll start by posting these on WeChat and Facebook.  If you like it, give me a like. If you have thoughts, comments, questions, grammar suggestions, or critiques, give me a comment.</p><hr><p>Tomorrow’s piece will be an honest introduction of me and what kind of topics I’ll be covering. Thanks for reading!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I’ve been wanting to get into the habit writing for a long time because I think written communication is a very valuable skill to have. A
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://stantonwong.com/2017/08/10/hello-world/"/>
+    <id>http://stantonwong.com/2017/08/10/hello-world/</id>
+    <published>2017-08-09T16:42:32.000Z</published>
+    <updated>2017-08-09T16:42:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

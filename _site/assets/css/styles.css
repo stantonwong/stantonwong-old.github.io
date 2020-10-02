@@ -28,6 +28,8 @@ ul { padding: 0; list-style-type: none; }
 
 .post_date { margin-top: 2px; color: #999; }
 
+.post_content img { max-width: 100%; }
+
 /* Footer */
 .about_me_footer { margin-top: 70px; border-top: 3px solid #CCC; padding: 12px 0; }
 
